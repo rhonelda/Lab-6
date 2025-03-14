@@ -1,0 +1,43 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/posts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/special-burgers/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/the-firecracker-pepperoni/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/rhonelda/
+        </loc>
+    </url>
+</urlset>
